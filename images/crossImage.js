@@ -1,0 +1,1 @@
+export const crossImage = require('../assets/cross.png'); 
