@@ -1,10 +1,16 @@
 # ReactNativeTodoList
 -> Register Users by using "Async Storage"  
 ![](/images/LogIn.png)
+
+
 -> Add Tasks for Users by using "Realm" local database storage
 -> Filter for Completed and Pending Tasks.
+
+
 ![](/images/TodoList.png)
-![](/images/ComopleteList.png)
+![](/images/CompleteList.png)
+
+
 -> Update Task and show details.
 
 => Add Local and Scheduled Notifications for notifying pending Tasks.
