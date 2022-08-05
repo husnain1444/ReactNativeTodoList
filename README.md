@@ -14,8 +14,10 @@
 -> Update Task and show details.
 
 => Add Local and Scheduled Notifications for notifying pending Tasks.
-=> Select Date and Time for Scheduled Notifications.![](/images/LogIn.png)
+=> Select Date and Time for Scheduled Notifications.
+
 ![](/images/AddTask.png)
+
 => Project may open in Visual Studio, may change as per requirement and may run in virtual devices through 
 $ npx react-native start
 $ npx react-native run-android (Android)
